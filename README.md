@@ -26,7 +26,8 @@
    on May 26th, 2026. Each group will have a maximum of 15 minutes to present
    their project. It is advised that your PowerPoint files to be no longer than 15
    slides.
-8. **Prepare a written technical report of no longer than 15 pages to summarize and
+
+9. **Prepare a written technical report of no longer than 15 pages to summarize and
    discuss all steps involved in the project such as the problem statement, various
    steps conducted, summary of findings, conclusions, etc. Submit the report and
    the notebook file (with proper headings, explanatory comments and code
